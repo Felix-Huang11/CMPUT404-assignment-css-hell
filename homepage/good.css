@@ -1,0 +1,32 @@
+
+body {
+  background-image: url('bg.jpg');
+  margin-left: 20%;
+  margin-right: 20%;
+  letter-spacing: 0.03em;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(8, 8, 3);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(139, 138, 61);
+}
+
+#pic-div {
+  font-style: italic;
+}
+
+#pic {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  margin-top: 1em;
+  margin-right: 6em;
+  
+}
+
+#experience > li {
+  font-size: 1.1em;
+  font-weight: bold;
+  padding: 0.1em 0px;
+}
